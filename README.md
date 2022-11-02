@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/alimadyouni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alimadyouni" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohamed-ali-madyouni-4134b4230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-ali-madyouni-4134b4230" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20395320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20395320" height="30" width="40" /></a>
 <a href="https://fb.com/ali.madyouni.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali.madyouni.9" height="30" width="40" /></a>
 <a href="https://instagram.com/mad.medali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mad.medali" height="30" width="40" /></a>
 </p>
